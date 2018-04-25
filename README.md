@@ -1,5 +1,14 @@
 # NativeLikeAnimations
 
+Inspired by this article about native-like animations for page transitions on the web (which uses vuejs) 
+I tried to implement something like it but in just Angular (+ web animations). 
+
+This is just an example project (based on Angular CLI) with some basic animations that feel like native page transitions on a mobile OS.
+
+Although, Angular Material is used for some basic stylings, the animations use stock Angular 6 and web animations, plus some css styling/transitions. 
+
+Almost all of the transitions are implemented in the app component. Additional components exist only to demonstrate the page transitions.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0-rc.5.
 
 ## Development server
